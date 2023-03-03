@@ -17,3 +17,20 @@ button.onclick = function () {
     inputIn.value = '';
 
 }
+
+// Home Work
+
+let a1 = 7;
+let b1 = 9;
+
+console.log(a1 * b1);
+
+let c = 7;
+let d = 9;
+
+div.innerHTML = c / d;
+
+let e = 3;
+let f = 5;
+
+div.innerHTML = e + f;
